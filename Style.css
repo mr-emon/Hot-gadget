@@ -1,0 +1,31 @@
+p{
+    text-align: justify;
+}
+.set{
+    text-align: center;
+}
+
+#cent{
+    text-align:center;
+
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    
+}
+#bord{
+    text-align: center;
+    border-bottom:5px solid orange;
+    width: 200px;
+    border-radius: 5px;
+    }
+    a{
+        color: black;
+        font-size: larger;
+        text-decoration: none;
+    }
+    .orange{
+        color: orange;
+    }
